@@ -1,0 +1,24 @@
+{
+  "name": "2016-02-24-interview",
+  "version": "0.0.0",
+  "description": "2016-02-24-interview",
+  "main": "promise_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stableShip/2016-02-24-interview.git"
+  },
+  "keywords": [
+    "interview"
+  ],
+  "author": "JIE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stableShip/2016-02-24-interview/issues"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.1"
+  }
+}
